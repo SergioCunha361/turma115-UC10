@@ -4,7 +4,7 @@ describe('Testes para a calcular imposto', () => {
   
   test('Retorna "null" para entrada não seja número ou renda < 0', () => {
     expect(calculaImposto("fff")).toBe(null);
-    expect(calculaImposto(-50)).toBe(null);
+    expect(calculaImposto(-50)).toBe(null);  // ou tobeNull()
   });
 
   test('Não desconta imposto para quem ganha <= 2000', () => {

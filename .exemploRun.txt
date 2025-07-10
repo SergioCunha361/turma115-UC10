@@ -1,0 +1,1 @@
+npm run test:coverage exercicio03.test.js

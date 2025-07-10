@@ -8,6 +8,6 @@ function validaSenha(senha) {
   }
   module.exports = validaSenha;
 
-  // 3 caminhos
+  // 6 caminhos
   
   
