@@ -7,4 +7,7 @@ function validaSenha(senha) {
     return true;
   }
   module.exports = validaSenha;
+
+  // 3 caminhos
+  
   

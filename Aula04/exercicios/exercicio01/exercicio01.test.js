@@ -1,4 +1,3 @@
-// exercicio01.test.js
 const validaSenha = require('./exercicio01');
 
 describe('Testes para a função validaSenha', () => {
