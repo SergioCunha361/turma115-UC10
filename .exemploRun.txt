@@ -1,1 +1,8 @@
 npm run test:coverage exercicio03.test.js
+
+DB_DATABASE=aula
+DB_USER=postgres
+DB_PASSWORD=BemVindo!
+DB_HOST=localhost
+DB_PORT=5432
+PORT=3000
